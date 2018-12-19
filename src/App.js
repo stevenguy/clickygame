@@ -31,7 +31,6 @@ class App extends Component {
     this.setState({ social })
   }
 
-// check
   render() {
     return (
     <>
